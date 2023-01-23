@@ -6,7 +6,7 @@
   
 //Colocar la fecha clave para activar el mensaje
   
-  let fecha = "feb 1, 2022 00:00:00",
+  let fecha = "feb 1, 2023 00:00:00",
       countDown = new Date(fecha).getTime(),
       x = setInterval(function() {    
 
